@@ -935,7 +935,7 @@ npm install aws-sdk
 
 ---
 
-## 🚀 NEXT STEPS  
+If you want to see a **Part 2** where we do these extra steps, let me know and be sure to ⭐️ the GitHub repo ☺️
 
-Which one do you want to tackle first? 🔥  
-I can generate the **Lambda functions, GitHub Actions workflows, or scaling policies** for you right away. Let me know! 💪
+Cheers,  
+James
