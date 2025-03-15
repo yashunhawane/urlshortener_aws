@@ -96,9 +96,6 @@ Next, we will **set up an EC2 instance** and connect it to this database.
 
 ---
 
-Here's your cleaned-up and well-structured section:
-
----
 
 # 4. Create an EC2 Instance (Amazon Linux 2023)  
 
@@ -677,10 +674,6 @@ curl -i http://your-ec2-public-ip/go/apple.vulture.monkey
 
 ## ✅ Success!  
 Your **Node.js app is now deployed on EC2**, running behind **Nginx**, and using **RDS for PostgreSQL**. 🎉  
-
-Here's your cleaned-up and well-structured section:  
-
----
 
 # 9. Set Up an AWS Application Load Balancer (ALB)  
 
