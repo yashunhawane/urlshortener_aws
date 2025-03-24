@@ -9,9 +9,9 @@ const pool = new Pool({
   password: process.env.DB_PASSWORD || "Yash9967",
   port: process.env.DB_PORT || 5432,
   ssl: false,
-  // ssl: {
-  //     rejectUnauthorized: false // Allow self-signed AWS certificates
-  // }
+  ssl: {
+      rejectUnauthorized: false // Allow self-signed AWS certificates
+  }
 });
 
 // Test the database connection
